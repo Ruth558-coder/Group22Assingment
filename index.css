@@ -1,0 +1,36 @@
+header,footer{
+    width:100%;
+}
+.side{
+    display:flex;
+}
+
+.main{
+    display:flex;
+    flex-direction:column;
+}
+#aside{
+    background-color:cyan;
+    Display:flex;
+    flex-direction:column;
+    border: 15px;
+
+    
+}
+#mainmenu{
+    display:flex;
+    
+
+    @media
+}
+#mainmenu li{
+    list-style:none;
+    display:inline;
+    margin-right:20px;
+}
+img{
+    width:50%;
+}
+a{
+    style:none;
+}
